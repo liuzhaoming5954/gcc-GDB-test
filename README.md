@@ -1,0 +1,2 @@
+# gcc-GDB-test
+这是一个通过STM32CubeMX生成Makefile工程并用Linux的gcc工具编译调试的例子
